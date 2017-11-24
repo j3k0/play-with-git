@@ -1,4 +1,6 @@
 # play-with-git
 Let's play with git
 
-Titi et tata
+Vive Titi
+et
+Vive Tata!
